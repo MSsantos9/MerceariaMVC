@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerceariaMVC", "MerceariaMVC\MerceariaMVC.csproj", "{D766BE06-24D6-482E-B5A1-89B8861E68E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerceariaMVCTests", "MerceariaMVCTests\MerceariaMVCTests.csproj", "{BBA4FD43-71D9-4A88-A475-8D6D6D393CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D766BE06-24D6-482E-B5A1-89B8861E68E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D766BE06-24D6-482E-B5A1-89B8861E68E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D766BE06-24D6-482E-B5A1-89B8861E68E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D766BE06-24D6-482E-B5A1-89B8861E68E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA4FD43-71D9-4A88-A475-8D6D6D393CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA4FD43-71D9-4A88-A475-8D6D6D393CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA4FD43-71D9-4A88-A475-8D6D6D393CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA4FD43-71D9-4A88-A475-8D6D6D393CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D0F4411-3D9E-4875-A749-262CF56EA574}
+	EndGlobalSection
+EndGlobal
